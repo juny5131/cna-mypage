@@ -1,0 +1,11 @@
+local\AbstractEvent$1.class
+local\Shipped.class
+local\config\kafka\KafkaProcessor.class
+local\PolicyHandler.class
+local\MypageApplication.class
+local\Mypage.class
+local\AbstractEvent.class
+local\MypageViewHandler.class
+local\Ordered.class
+local\MypageRepository.class
+local\DeliveryCanceled.class
